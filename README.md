@@ -14,8 +14,33 @@ Los ganadores serán incluidos en este repositorio cada mes:
 
 ## Julio 2023
 
-Actualmente en votación
+## Whatsapp
 
 ### Organizadores
 
+Anita Quevedo
+
 ### Moderadores
+
+Luis SM
+
+## Discord
+
+### Organizadores
+
+Anita Quevedo
+
+### Moderadores
+
+Don Diego (johanlh)
+Fernando Prieto (Cloud Gabriel)
+
+## Telegram
+
+### Organizadores
+
+Anita Quevedo
+
+### Moderadores
+
+Luis Laboriel (Luis RL)
