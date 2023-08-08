@@ -43,4 +43,4 @@ Anita Quevedo
 
 ### Moderadores
 
-Luis Laboriel (Luis RL)
+Luis Labori (Luis RL)
